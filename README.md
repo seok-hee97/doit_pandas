@@ -4,3 +4,8 @@
 해당 도서의 실습 자료는 방문하신 깃허브의 오른쪽 위에 있는 `Clone or Download` 버튼(초록색 버튼)으로 내려받을 수 있습니다.<br/>
 만약 깃허브가 익숙하지 않은 독자 여러분은 [이지스퍼블리싱 홈페이지](http://easyspub.co.kr/30_Menu/DataList/PUB)에 방문하여<br/>
 무료 회원가입을 하시고 [자료실]에서 Do it! 판다스 입문을 검색하여 자료를 내려받으세요.
+
+
+
+## rerference
+- [Do it 판다스 입문(12)](https://seethefuture.tistory.com/category/Do%20it%20%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EC%9E%85%EB%AC%B8) 
